@@ -1,0 +1,7 @@
+fr\enit\industryportal\fair2excelweb\Config.class
+fr\enit\industryportal\fair2excelweb\Controller.class
+fr\enit\industryportal\fair2excelweb\converters\QuestionsExcelConverter.class
+fr\enit\industryportal\fair2excelweb\converters\ExcelConverter.class
+fr\enit\industryportal\fair2excelweb\converters\FairExcelConverter.class
+fr\enit\industryportal\fair2excelweb\HelloResource.class
+fr\enit\industryportal\fair2excelweb\HelloApplication.class
